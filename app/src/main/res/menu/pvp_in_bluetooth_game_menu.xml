@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bluetooth_statistic"
+        android:title="统计棋子"/>
+    <item
+        android:id="@+id/bluetooth_exit"
+        android:title="返回菜单"/>
+    <item
+        android:id="@+id/bluetooth_give_up"
+        android:title="认输投降"/>
+</menu>

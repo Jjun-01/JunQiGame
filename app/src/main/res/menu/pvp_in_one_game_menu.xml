@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="重新开始"
+        android:id="@+id/restart"/>
+    <item
+        android:title="悔棋"
+        android:id="@+id/return_fore_step"/>
+    <item
+        android:title="统计棋子"
+        android:id="@+id/statistic"/>s
+    <item
+        android:title="返回菜单"
+        android:id="@+id/exit"/>
+
+</menu>
